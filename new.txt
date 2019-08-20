@@ -1,6 +1,6 @@
 this is second-dev version.
 
-dev branch make difference.
+slave branch make difference too.
 master change this version
 
 slave make changes;

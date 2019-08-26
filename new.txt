@@ -9,3 +9,5 @@ slave make changes;
 1. master进行修改并提交到本地仓库
 
 2. slave进行修改并想合并到master分支中去
+
+3. 如果能够直接合并成功则自动merge，不需要手动进行操作

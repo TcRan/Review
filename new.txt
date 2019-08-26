@@ -8,3 +8,4 @@ slave make changes;
 合并分支问题
 1. master进行修改并提交到本地仓库
 
+2. slave进行修改并想合并到master分支中去

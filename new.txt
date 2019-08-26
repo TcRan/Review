@@ -6,3 +6,4 @@ master change this version
 slave make changes;
 
 
+2. slave进行修改并想合并到master分支中去
